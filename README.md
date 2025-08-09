@@ -37,7 +37,11 @@ streamlit run app.py
 
 ## 🛠 Tecnologias Utilizadas
 Python
+
 Pandas
+
 NumPy
+
 Matplotlib / Seaborn
+
 Streamlit
